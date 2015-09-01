@@ -1,2 +1,2 @@
 # Faldiega
-Repo ini milik Ega.
+Masih dalam tahap pembelajaran.
